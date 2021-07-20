@@ -1,6 +1,6 @@
 Welcome to my page
 
-- 👋 Hi, I’m @hienhnh246
+👋 Hi, I’m @hienhnh246
 
 <!---
 - 👀 I’m interested in ...
